@@ -3,7 +3,7 @@
 
 Save the project folder to your device.
 
-Go to [Link to Google](https://chrome://extensions/)
+Go to [chrome://extensions/](https://chrome://extensions/)
 
 At the top right, turn on Developer mode. 
 
