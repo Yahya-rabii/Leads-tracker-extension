@@ -13,7 +13,8 @@
 |```STEP 6```|Open a new tab in Chrome and then click the extension logo on the list of extensions. |
 
 
-<p align="center">
-<h1>```😁``` enjoy !!!</h1>
-</p>
 
+<h1>
+  <p align="center">```😁``` enjoy !!!
+  </p>
+</h1>
