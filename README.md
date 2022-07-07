@@ -1,14 +1,19 @@
 # Leads-tracker-extension
 
+# Description :
 
-Save the project folder to your device.
+### Leads-tracker is a Webapp extension which allows you to save urls & tabs while you're browsing .
+|------------|---------------------------------|
+|```STEP 1```|Save the project folder to your device.|
 
-Go to chrome://extensions
+|```STEP 2```|Go to chrome://extensions|
 
-At the top right, turn on Developer mode. 
+|```STEP 3```|At the top right, turn on Developer mode.|
 
-Click Load unpacked.
+|```STEP 4```|Click Load unpacked.|
 
-Find and select the project folder that you're already saved on your device.
+|```STEP 5```|Find and select the project folder that you're already saved on your device.|
 
-Open a new tab in Chrome and then click the extension logo on the list of extensions. enjoy !!! .
+|```STEP 6```|Open a new tab in Chrome and then click the extension logo on the list of extensions.|
+
+|```😁```|enjoy !!! .|
