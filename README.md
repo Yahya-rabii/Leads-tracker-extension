@@ -3,6 +3,7 @@
 # Description :
 
 ### Leads-tracker is a Webapp extension which allows you to save urls & tabs while you're browsing .
+| STEPS  | Description|
 |------------|---------------------------------|
 |```STEP 1```|Save the project folder to your device.|
 
