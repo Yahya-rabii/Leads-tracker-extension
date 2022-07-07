@@ -12,5 +12,8 @@
 |```STEP 5```|Find and select the project folder that you're already saved on your device. |
 |```STEP 6```|Open a new tab in Chrome and then click the extension logo on the list of extensions. |
 
+
+<p align="center">
 # ```😁``` enjoy !!!
+</p>
 
