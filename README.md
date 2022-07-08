@@ -16,7 +16,8 @@
 
 # for firefox users this product is available on [leads-tracker-rb](https://addons.mozilla.org/en-US/firefox/addon/leads-tracker-rb/)
 
-<conter> ![image](https://user-images.githubusercontent.com/92509001/177959733-e87af1b2-daa3-4086-a408-354bcbe65216.png) </center>
+  
+   <img align="left" width="600" height="200" src="[https://www.python.org/python-.png](https://user-images.githubusercontent.com/92509001/177959733-e87af1b2-daa3-4086-a408-354bcbe65216.png)">
 
 <h1>
   <p align="center">😁 enjoy !!!
